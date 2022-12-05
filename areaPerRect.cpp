@@ -1,7 +1,7 @@
 // Copyright 2022 Peter Sobowale
 // Created by: Peter Sobowale
 // Created on: Sept 18, 2022
-// This program calculates and displays the area and
+// # This program calculates the area and 
 // perimeter of a rectangle with dimensions 5cm X 3cm.
 #include <iostream>
 
